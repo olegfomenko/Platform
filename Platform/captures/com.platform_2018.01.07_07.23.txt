@@ -1,0 +1,381 @@
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 13 samples:
+    Cached: 308MB min, 401MB avg, 498MB max
+    Free: 28MB min, 74MB avg, 142MB max
+    ZRam: 146MB min, 174MB avg, 181MB max
+    Kernel: 103MB min, 124MB avg, 155MB max
+    Native: 40MB min, 50MB avg, 118MB max
+       Mod : 1 samples:
+    Cached: 221MB min, 221MB avg, 221MB max
+    Free: 244MB min, 244MB avg, 244MB max
+    ZRam: 148MB min, 148MB avg, 148MB max
+    Kernel: 297MB min, 297MB avg, 297MB max
+    Native: 111MB min, 111MB avg, 111MB max
+       Low : 1 samples:
+    Cached: 197MB min, 197MB avg, 197MB max
+    Free: 255MB min, 255MB avg, 255MB max
+    ZRam: 172MB min, 172MB avg, 172MB max
+    Kernel: 139MB min, 139MB avg, 139MB max
+    Native: 42MB min, 42MB avg, 42MB max
+  SOn /Norm: 34 samples:
+    Cached: 310MB min, 404MB avg, 528MB max
+    Free: 19MB min, 57MB avg, 129MB max
+    ZRam: 136MB min, 164MB avg, 183MB max
+    Kernel: 101MB min, 118MB avg, 176MB max
+    Native: 40MB min, 66MB avg, 118MB max
+       Mod : 6 samples:
+    Cached: 256MB min, 312MB avg, 335MB max
+    Free: 32MB min, 68MB avg, 171MB max
+    ZRam: 134MB min, 166MB avg, 182MB max
+    Kernel: 101MB min, 120MB avg, 134MB max
+    Native: 43MB min, 67MB avg, 112MB max
+       Low : 2 samples:
+    Cached: 273MB min, 284MB avg, 295MB max
+    Free: 99MB min, 130MB avg, 161MB max
+    ZRam: 134MB min, 153MB avg, 171MB max
+    Kernel: 103MB min, 105MB avg, 107MB max
+    Native: 42MB min, 77MB avg, 111MB max
+
+Per-Package Stats:
+  * com.platform / u0a632 / v2:
+      * com.platform / u0a632 / v2:
+               TOTAL: 0,69% (135MB-147MB-173MB/132MB-144MB-170MB over 8)
+                 Top: 0,69% (135MB-147MB-173MB/132MB-144MB-170MB over 8)
+          (Last Act): 0,07%
+            (Cached): 0,96% (17MB-24MB-29MB/13MB-21MB-26MB over 4)
+  * com.platform / u0a633 / v2:
+      * com.platform / u0a633 / v2:
+               TOTAL: 0,27% (119MB-134MB-148MB/116MB-131MB-145MB over 2)
+                 Top: 0,27% (119MB-134MB-148MB/116MB-131MB-145MB over 2)
+          (Last Act): 0,01%
+            (Cached): 0,15% (26MB-26MB-26MB/23MB-23MB-23MB over 1)
+  * com.platform / u0a633 / v3:
+      * com.platform / u0a633 / v3:
+               TOTAL: 1,7% (21MB-100MB-122MB/19MB-97MB-119MB over 12)
+                 Top: 1,7% (21MB-100MB-122MB/19MB-97MB-119MB over 12)
+          (Last Act): 0,49% (100MB-100MB-100MB/97MB-97MB-97MB over 1)
+            (Cached): 2,0% (24MB-41MB-91MB/21MB-38MB-88MB over 4)
+  * com.platform / u0a634 / v3:
+      * com.platform / u0a634 / v3:
+               TOTAL: 0,32% (105MB-111MB-123MB/102MB-108MB-121MB over 4)
+                 Top: 0,32% (105MB-111MB-123MB/102MB-108MB-121MB over 4)
+          (Last Act): 0,08% (96MB-96MB-96MB/93MB-93MB-93MB over 1)
+            (Cached): 8,1% (84MB-84MB-85MB/82MB-83MB-84MB over 6)
+  * com.platform / u0a635 / v3:
+      * com.platform / u0a635 / v3:
+               TOTAL: 0,09% (108MB-114MB-120MB/106MB-112MB-117MB over 2)
+                 Top: 0,09% (108MB-114MB-120MB/106MB-112MB-117MB over 2)
+            (Cached): 0,74% (22MB-22MB-22MB/19MB-19MB-19MB over 1)
+  * com.platform / u0a636 / v4:
+      * com.platform / u0a636 / v4:
+               TOTAL: 0,31% (107MB-123MB-138MB/104MB-120MB-136MB over 3)
+                 Top: 0,31% (107MB-123MB-138MB/104MB-120MB-136MB over 3)
+            (Cached): 3,0% (21MB-24MB-26MB/18MB-21MB-23MB over 5)
+  * com.platform / u0a637 / v4:
+      * com.platform / u0a637 / v4:
+               TOTAL: 1,5% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+                 Top: 1,5% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+            (Cached): 0,99% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+  * com.platform / u0a637 / v5:
+      * com.platform / u0a637 / v5:
+               TOTAL: 2,5% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+                 Top: 2,5% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+          (Last Act): 0,02%
+            (Cached): 1,1% (24MB-24MB-25MB/20MB-21MB-21MB over 3)
+
+Multi-Package Common Processes:
+  * com.platform / u0a633 (11 entries):
+        SOff/Norm/Top    : +17m26s606ms
+                  LastAct: +1s216ms
+                  CchAct : +1m1s993ms
+                  CchEmty: +20m0s547ms
+        SOn /Norm/Top    : +3m35s724ms
+                  LastAct: +5m20s249ms
+                  CchAct : +29s749ms
+                  CchEmty: +1m11s491ms
+             Mod /CchAct : +9s491ms
+             Low /CchAct : +7s245ms
+                  CchEmty: +242ms
+                  TOTAL  : +49m24s553ms
+        PSS/USS (6 entries):
+          SOff/Norm/Top    : 9 samples 21MB 93MB 115MB / 19MB 90MB 111MB
+                    CchEmty: 2 samples 24MB 25MB 26MB / 21MB 22MB 23MB
+          SOn /Norm/Top    : 5 samples 115MB 125MB 148MB / 112MB 122MB 145MB
+                    LastAct: 1 samples 100MB 100MB 100MB / 97MB 97MB 97MB
+                    CchAct : 1 samples 91MB 91MB 91MB / 88MB 88MB 88MB
+                    CchEmty: 2 samples 24MB 25MB 25MB / 21MB 21MB 22MB
+
+  * com.platform / u0a637 (12 entries):
+        SOff/Norm/Top    : +22m58s172ms
+                  CchEmty: +1h7m22s864ms
+             Mod /Top    : +10m43s528ms
+                  CchEmty: +47s681ms
+             Low /Top    : +717ms
+        SOn /Norm/Top    : +30m52s192ms
+                  LastAct: +10s840ms
+                  CchEmty: +5m35s71ms
+             Mod /Top    : +1m43s785ms
+                  LastAct: +12s453ms
+                  CchAct : +26s244ms
+                  CchEmty: +5m4s553ms
+                  TOTAL  : +2h25m58s100ms
+        PSS/USS (9 entries):
+          SOff/Norm/Top    : 11 samples 98MB 109MB 141MB / 95MB 105MB 137MB
+                    CchEmty: 12 samples 16MB 21MB 29MB / 14MB 18MB 25MB
+               Mod /Top    : 6 samples 122MB 127MB 129MB / 121MB 124MB 126MB
+                    CchEmty: 1 samples 18MB 18MB 18MB / 16MB 16MB 16MB
+               Low /Top    : 1 samples 127MB 127MB 127MB / 123MB 123MB 123MB
+          SOn /Norm/Top    : 32 samples 96MB 103MB 120MB / 93MB 100MB 116MB
+                    CchEmty: 4 samples 16MB 19MB 23MB / 14MB 17MB 20MB
+               Mod /Top    : 3 samples 45MB 89MB 117MB / 42MB 86MB 113MB
+                    CchEmty: 1 samples 16MB 16MB 16MB / 15MB 15MB 15MB
+
+Summary:
+  * com.platform / u0a637 / v4:
+           TOTAL: 6,1% (45MB-107MB-141MB/42MB-104MB-137MB over 53)
+             Top: 6,1% (45MB-107MB-141MB/42MB-104MB-137MB over 53)
+      (Last Act): 0,04%
+        (Cached): 7,3% (16MB-20MB-29MB/14MB-18MB-25MB over 18)
+  * com.platform / u0a633 / v2:
+           TOTAL: 1,9% (21MB-105MB-148MB/19MB-102MB-145MB over 14)
+             Top: 1,9% (21MB-105MB-148MB/19MB-102MB-145MB over 14)
+      (Last Act): 0,50% (100MB-100MB-100MB/97MB-97MB-97MB over 1)
+        (Cached): 2,1% (24MB-38MB-91MB/21MB-35MB-88MB over 5)
+  * com.platform / u0a632 / v2:
+           TOTAL: 0,69% (135MB-147MB-173MB/132MB-144MB-170MB over 8)
+             Top: 0,69% (135MB-147MB-173MB/132MB-144MB-170MB over 8)
+      (Last Act): 0,07%
+        (Cached): 0,96% (17MB-24MB-29MB/13MB-21MB-26MB over 4)
+  * com.platform / u0a634 / v3:
+           TOTAL: 0,32% (105MB-111MB-123MB/102MB-108MB-121MB over 4)
+             Top: 0,32% (105MB-111MB-123MB/102MB-108MB-121MB over 4)
+      (Last Act): 0,08% (96MB-96MB-96MB/93MB-93MB-93MB over 1)
+        (Cached): 8,1% (84MB-84MB-85MB/82MB-83MB-84MB over 6)
+  * com.platform / u0a636 / v4:
+           TOTAL: 0,31% (107MB-123MB-138MB/104MB-120MB-136MB over 3)
+             Top: 0,31% (107MB-123MB-138MB/104MB-120MB-136MB over 3)
+        (Cached): 3,0% (21MB-24MB-26MB/18MB-21MB-23MB over 5)
+  * com.platform / u0a635 / v3:
+           TOTAL: 0,09% (108MB-114MB-120MB/106MB-112MB-117MB over 2)
+             Top: 0,09% (108MB-114MB-120MB/106MB-112MB-117MB over 2)
+        (Cached): 0,74% (22MB-22MB-22MB/19MB-19MB-19MB over 1)
+
+Run time Stats:
+  SOff/Norm: +14h1m6s430ms
+       Mod : +17m33s142ms
+       Low : +1m15s828ms
+  SOn /Norm: +3h17m54s809ms
+       Mod : +18m13s921ms
+       Low : +3m47s614ms
+       Crit: +11s565ms
+      TOTAL: +18h0m3s309ms
+
+Memory usage:
+  Kernel : 123MB (338 samples)
+  Native : 53MB (338 samples)
+  Persist: 292MB (4428 samples)
+  Top    : 65MB (3451 samples)
+  ImpFg  : 124MB (7685 samples)
+  ImpBg  : 66MB (14150 samples)
+  Service: 258MB (22458 samples)
+  Receivr: 240KB (10743 samples)
+  Home   : 16MB (258 samples)
+  LastAct: 2,5MB (2282 samples)
+  CchAct : 24MB (449 samples)
+  CchCAct: 3,2MB (607 samples)
+  CchEmty: 189MB (8147 samples)
+  Cached : 399MB (338 samples)
+  Free   : 71MB (338 samples)
+  Z-Ram   : 172MB (338 samples)
+  TOTAL  : 1,8GB
+  ServRst: 295KB (10266 samples)
+
+          Start time: 2018-01-06 06:29:16
+  Total elapsed time: +1d0h53m57s359ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 5 samples:
+    Cached: 308MB min, 370MB avg, 445MB max
+    Free: 28MB min, 75MB avg, 98MB max
+    ZRam: 172MB min, 177MB avg, 181MB max
+    Kernel: 117MB min, 123MB avg, 130MB max
+    Native: 40MB min, 42MB avg, 44MB max
+       Low : 1 samples:
+    Cached: 197MB min, 197MB avg, 197MB max
+    Free: 255MB min, 255MB avg, 255MB max
+    ZRam: 172MB min, 172MB avg, 172MB max
+    Kernel: 139MB min, 139MB avg, 139MB max
+    Native: 42MB min, 42MB avg, 42MB max
+  SOn /Norm: 9 samples:
+    Cached: 310MB min, 398MB avg, 461MB max
+    Free: 44MB min, 75MB avg, 129MB max
+    ZRam: 171MB min, 176MB avg, 183MB max
+    Kernel: 101MB min, 112MB avg, 125MB max
+    Native: 40MB min, 42MB avg, 45MB max
+       Mod : 2 samples:
+    Cached: 302MB min, 317MB avg, 332MB max
+    Free: 32MB min, 52MB avg, 72MB max
+    ZRam: 179MB min, 180MB avg, 182MB max
+    Kernel: 110MB min, 122MB avg, 133MB max
+    Native: 44MB min, 44MB avg, 44MB max
+       Low : 1 samples:
+    Cached: 295MB min, 295MB avg, 295MB max
+    Free: 99MB min, 99MB avg, 99MB max
+    ZRam: 171MB min, 171MB avg, 171MB max
+    Kernel: 107MB min, 107MB avg, 107MB max
+    Native: 42MB min, 42MB avg, 42MB max
+
+Per-Package Stats:
+  * com.platform / u0a637 / v4:
+      * com.platform / u0a637 / v4:
+               TOTAL: 6,6% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+                 Top: 6,6% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+            (Cached): 4,5% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+  * com.platform / u0a637 / v5:
+      * com.platform / u0a637 / v5:
+               TOTAL: 12% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+                 Top: 12% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+          (Last Act): 0,07%
+            (Cached): 5,0% (24MB-24MB-25MB/20MB-21MB-21MB over 3)
+
+Multi-Package Common Processes:
+  * com.platform / u0a637 (12 entries):
+        SOff/Norm/Top    : +22m58s172ms
+                  CchEmty: +1h7m22s836ms
+             Mod /Top    : +10m43s528ms
+                  CchEmty: +47s681ms
+             Low /Top    : +717ms
+        SOn /Norm/Top    : +30m18s17ms
+                  LastAct: +10s840ms
+                  CchEmty: +3m48s513ms
+             Mod /Top    : +1m43s785ms
+                  LastAct: +12s453ms
+                  CchAct : +26s244ms
+                  CchEmty: +6s448ms
+                  TOTAL  : +2h18m39s234ms
+        PSS/USS (8 entries):
+          SOff/Norm/Top    : 11 samples 98MB 109MB 141MB / 95MB 105MB 137MB
+                    CchEmty: 12 samples 16MB 21MB 29MB / 14MB 18MB 25MB
+               Mod /Top    : 6 samples 122MB 127MB 129MB / 121MB 124MB 126MB
+                    CchEmty: 1 samples 18MB 18MB 18MB / 16MB 16MB 16MB
+               Low /Top    : 1 samples 127MB 127MB 127MB / 123MB 123MB 123MB
+          SOn /Norm/Top    : 31 samples 96MB 103MB 120MB / 93MB 100MB 116MB
+                    CchEmty: 2 samples 20MB 22MB 23MB / 17MB 19MB 20MB
+               Mod /Top    : 3 samples 45MB 89MB 117MB / 42MB 86MB 113MB
+
+Summary:
+  * com.platform / u0a637 / v4:
+           TOTAL: 28% (45MB-107MB-141MB/42MB-104MB-137MB over 52)
+             Top: 28% (45MB-107MB-141MB/42MB-104MB-137MB over 52)
+      (Last Act): 0,16%
+        (Cached): 30% (16MB-21MB-29MB/14MB-18MB-25MB over 15)
+
+Run time Stats:
+  SOff/Norm: +2h21m36s892ms
+       Mod : +14m33s633ms
+       Low : +17s446ms
+  SOn /Norm: +1h12m46s461ms
+       Mod : +6m54s480ms
+       Low : +2m29s490ms
+       Crit: +550ms
+      TOTAL: +3h58m38s952ms
+
+Memory usage:
+  Kernel : 119MB (122 samples)
+  Native : 42MB (122 samples)
+  Persist: 306MB (1194 samples)
+  Top    : 80MB (994 samples)
+  ImpFg  : 135MB (2273 samples)
+  ImpBg  : 67MB (2995 samples)
+  Service: 214MB (5849 samples)
+  Receivr: 454KB (2696 samples)
+  Home   : 27MB (82 samples)
+  LastAct: 2,8MB (329 samples)
+  CchAct : 18MB (177 samples)
+  CchCAct: 4,3MB (47 samples)
+  CchEmty: 188MB (2042 samples)
+  Cached : 378MB (122 samples)
+  Free   : 76MB (122 samples)
+  Z-Ram   : 176MB (122 samples)
+  TOTAL  : 1,8GB
+  ServRst: 167KB (1522 samples)
+
+          Start time: 2018-01-07 02:42:36
+  Total elapsed time: +4h40m37s432ms (partial) libart.so
+
+CURRENT STATS:
+System memory usage:
+  SOff/Norm: 2 samples:
+    Cached: 389MB min, 417MB avg, 445MB max
+    Free: 28MB min, 63MB avg, 97MB max
+    ZRam: 174MB min, 176MB avg, 177MB max
+    Kernel: 117MB min, 120MB avg, 123MB max
+    Native: 40MB min, 41MB avg, 41MB max
+  SOn /Norm: 3 samples:
+    Cached: 410MB min, 420MB avg, 434MB max
+    Free: 76MB min, 81MB avg, 86MB max
+    ZRam: 174MB min, 180MB avg, 183MB max
+    Kernel: 107MB min, 109MB avg, 112MB max
+    Native: 40MB min, 41MB avg, 42MB max
+
+Per-Package Stats:
+  * com.platform / u0a637 / v4:
+      * com.platform / u0a637 / v4:
+               TOTAL: 18% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+                 Top: 18% (96MB-101MB-113MB/93MB-98MB-111MB over 12)
+            (Cached): 12% (21MB-21MB-21MB/18MB-18MB-18MB over 1)
+  * com.platform / u0a637 / v5:
+      * com.platform / u0a637 / v5:
+               TOTAL: 31% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+                 Top: 31% (97MB-100MB-109MB/94MB-97MB-106MB over 19)
+          (Last Act): 0,20%
+            (Cached): 14% (24MB-24MB-25MB/20MB-21MB-21MB over 3)
+
+Multi-Package Common Processes:
+  * com.platform / u0a637 (5 entries):
+        SOff/Norm/Top    : +19m45s788ms
+                  CchEmty: +22m13s13ms
+        SOn /Norm/Top    : +23m28s343ms (running)
+                  LastAct: +10s656ms
+                  CchEmty: +30s689ms
+                  TOTAL  : +1h6m8s489ms
+        PSS/USS (3 entries):
+          SOff/Norm/Top    : 9 samples 98MB 101MB 102MB / 95MB 98MB 99MB
+                    CchEmty: 4 samples 21MB 23MB 25MB / 18MB 20MB 21MB
+          SOn /Norm/Top    : 22 samples 96MB 100MB 113MB / 93MB 98MB 111MB
+
+Summary:
+  * com.platform / u0a637 / v4:
+           TOTAL: 49% (96MB-101MB-113MB/93MB-98MB-111MB over 31)
+             Top: 49% (96MB-101MB-113MB/93MB-98MB-111MB over 31)
+      (Last Act): 0,20%
+        (Cached): 26% (21MB-23MB-25MB/18MB-20MB-21MB over 4)
+
+Run time Stats:
+  SOff/Norm: +51m38s896ms
+  SOn /Norm: +36m35s735ms (running)
+      TOTAL: +1h28m14s631ms
+
+Memory usage:
+  Kernel : 112MB (38 samples)
+  Native : 41MB (38 samples)
+  Persist: 317MB (120 samples)
+  Top    : 84MB (130 samples)
+  ImpFg  : 150MB (299 samples)
+  ImpBg  : 65MB (429 samples)
+  Service: 180MB (1008 samples)
+  Receivr: 456KB (698 samples)
+  Home   : 34MB (10 samples)
+  LastAct: 4,2MB (39 samples)
+  CchAct : 14MB (8 samples)
+  CchEmty: 214MB (385 samples)
+  Cached : 419MB (38 samples)
+  Free   : 77MB (38 samples)
+  Z-Ram   : 179MB (38 samples)
+  TOTAL  : 1,8GB
+  ServRst: 83KB (204 samples)
+
+          Start time: 2018-01-07 05:54:59
+  Total elapsed time: +1h28m15s25ms (partial) libart.so

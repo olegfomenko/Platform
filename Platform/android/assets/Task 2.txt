@@ -1,0 +1,4 @@
+1000.0 500.0 256 0 0 1
+e Resistor 1152.0 512.0 true true true 1.5
+e Resistor 1152.0 384.0 true true true 2.5
+e Resistor 1152.0 256.0 true true true 0.5

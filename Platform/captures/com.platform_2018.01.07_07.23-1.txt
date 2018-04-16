@@ -1,0 +1,32 @@
+TASK com.platform id=57415
+  ACTIVITY com.platform/.AndroidLauncher 34d004e3 pid=30935
+    Local Activity 1dc2bc17 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 255mcc3mnc ru_RU ldltr sw360dp w360dp h615dp 320dpi nrml long port finger -keyb/v/h -nav/h s.37} fontpath=/system/fonts/DroidSansFallback.ttf titleFontPath=/system/fonts/DroidSansFallback.ttf
+    FragmentManager misc state:
+      mActivity=com.platform.AndroidLauncher@1dc2bc17
+      mContainer=android.app.Activity$1@4b27d30
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=596974151 (27999 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{25441da9 V.E..... R....... 0,0-720,1280}
+        android.widget.LinearLayout{38c04f2e V.E..... ........ 0,0-720,1280}
+          android.view.ViewStub{2d95eacf G.E..... ......I. 0,0-0,0 #1020377}
+          android.widget.FrameLayout{17a3c5c V.E..... ........ 0,0-720,1280 #1020002 android:id/content}
+            com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20{2a97eb65 VFE..... .F...... 0,0-720,1280}
+    Looper (main, tid 1) {2186303a}
+      (Total messages: 0, idling=false, quitting=false)

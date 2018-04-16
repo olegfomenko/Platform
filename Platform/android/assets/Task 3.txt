@@ -1,0 +1,4 @@
+1200.0 500.0 256 0 256 0
+e Lamp 1152.0 512.0 true true true 5.0 5.0
+e Lamp 1152.0 256.0 true true true 5.0 5.0
+e Battery 1152.0 384.0 true true true 35
